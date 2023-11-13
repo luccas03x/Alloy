@@ -1,0 +1,299 @@
+<html>
+    <head>
+        <title>Alloy © | 2020</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+
+    <body id="topo" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>                        
+                    </button>
+                    <a class="navbar-brand" href="#topo"><span class="glyphicon glyphicon-home"></span></a>
+                </div>
+                <div class="collapse navbar-collapse" id="navbar">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#sobre">SOBRE</a></li>
+                        <li><a href="#servicos">SERVIÇOS</a></li>
+                        <li><a href="#sites">SITES</a></li>
+                        <li><a href="#preco">PREÇO</a></li>
+                        <li><a href="#contato">CONTATO</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="jumbotron text-center">
+            <img src="img/Logo-empresa13-Pronto.png" width="450" height="150">
+            <p>Um mundo de possibilidades</p> 
+            <form>
+                <center>
+                    <div class="input-group email">
+                        <input type="email" class="form-control" size="50" placeholder="Insira seu e-mail" required>
+                        <div class="input-group-btn">
+                            <p><button type="button" class="w3-button w3-pink btn-sm">Enviar</button></p>
+                        </div>
+                    </div>
+                </center>
+            </form>
+        </div>
+
+        <!-- Sobre nossa Empresa -->
+        <div id="sobre" class="container-fluid">
+            <div class="row">
+                <div class="col-sm-10">
+                    <h2>SOBRE NOSSA EMPRESA</h2><br>
+                    <h4>Alloy é um projeto que foi desenvolvido para auxiliar na era da tecnologia, sendo assim com seu avanço, muitas empresas ou pequenos empreendedores não alcançam essa adaptação tecnológica necessária, mediante a esse cenário, surge Alloy, buscando facilitar essa adaptação trazendo praticidade e segurança para seu website.</h4>
+                    <h5>Este projeto foi produzido por alunos do 2º e 3º ano do Ensino Médio do Técnico de Informática da escola Educandário Santa Rita de Cássia.</h5>
+                    <br>
+                </div>
+                <div class="col-sm-2">
+                    <br><span class="glyphicon glyphicon-signal icone"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid bg-grey">
+            <div class="row">
+                <div class="col-sm-3">
+                    <br><span class="glyphicon glyphicon-globe icone slideanim"></span>
+                </div>
+                <div class="col-sm-9">
+                    <h2>NOSSOS VALORES</h2><br>             
+                    <h4><i><b>MISSÃO:</b></i> Auxiliar pequenos empreendedores nos desafios tecnológicos, e na sua identidade digital.</h4>
+                    <h4><i><b>VISÃO:</b></i> Estabelecer-se no mercado, com a devida segurança digital.</h4>
+                    <h4><i><b>VALORES:</b></i> Modernidade, praticidade, segurança, confiança e qualidade.</h4>
+                </div>
+            </div>
+        </div>
+
+        <!-- Serviços -->
+        <div id="servicos" class="container-fluid text-center">
+            <h2>SERVIÇOS</h2>
+            <h4><i>O que podemos oferecer</i></h4>
+            <br>
+            <div class="row slideanim">
+                <div class="col-sm-4">
+                    <span class="glyphicon glyphicon-pencil icone-pequeno"></span>
+                    <h4>LAYOUT DE SITES PERSONALIZADOS</h4>
+                    <p>WebPage, Portfólio, Sistema e Portal.</p>
+                </div>
+                <div class="col-sm-4">
+                    <span class="glyphicon glyphicon-link icone-pequeno"></span>
+                    <h4>MANUAL DE CONDUTA DE MÍDIAS SOCIAIS</h4>
+                    <p>Instagram, Facebook, Twitter e LinkedIN.</p>
+                </div>
+                <div class="col-sm-4">
+                    <span class="glyphicon glyphicon-wrench icone-pequeno"></span>
+                    <h4>ATUALIZAÇÕES MENSAIS</h4>
+                    <p>Correções de erros e melhorias todo mês.</p>
+                </div>
+            </div>
+            <br><br>
+            <div class="row slideanim">
+                <div class="col-sm-4">
+                    <span class="glyphicon glyphicon-picture icone-pequeno"></span>
+                    <h4> MANUAL DE IDENTIDADE VISUAL</h4>
+                    <p>Estudo de cores e formas, brainstorming e painel semântico.</p>
+                </div>
+                <div class="col-sm-4">
+                    <span class="glyphicon glyphicon-certificate icone-pequeno"></span>
+                    <h4>TERCEIRIZAR CONSULTORIA</h4>
+                    <p>Estudo de Público-Alvo.</p>
+                </div>
+                <div class="col-sm-4">
+                    <span class="glyphicon glyphicon-paperclip icone-pequeno"></span>
+                    <h4>MANUAL DE FUNCIONALIDADE DO SITE</h4>
+                    <p>Estudo de caso e modelo de software.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Exemplos de Sites -->
+        <div id="sites" class="container-fluid text-center bg-grey">
+            <h2>Sites</h2>
+            <h4><i>O que nós criamos</i></h4><br>
+            <div class="row text-center slideanim">
+                <div class="col-sm-4">
+                    <div class="thumbnail">
+                        <img src="img/Logo Andrade 3 Park.png" width="400" height="300">
+                        <p><strong>Andrade 3 Park</strong></p>
+                        <p>Estacionamento</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="thumbnail">
+                        <img src="img/Logo ComClying 2.png" width="400" height="300">
+                        <p><strong>ComClying</strong></p>
+                        <p>Composteira</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="thumbnail">
+                        <img src="img/Logo Gs Gold Store 2.png" width="400" height="300">
+                        <p><strong>Gold Store</strong></p>
+                        <p>Loja de Roupas</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <!-- Preço -->
+        <div id="preco" class="container-fluid">
+            <div class="text-center">
+                <h2>Preço</h2>
+                <h4><i>Escolha uma forma de pagamento que funcione para você</i></h4>
+            </div>
+            <div class="row slideanim">
+                <div class="col-sm-4 col-xs-12">
+                    <div class="panel panel-default text-center">
+                        <div class="panel-heading">
+                            <h1>Portfólio</h1>
+                        </div>
+                        <div class="panel-body">
+                            <p>Serviço Oferecido</p>
+                            <p>Cadastro do Serviço</p>
+                            <p>Categorias do Serviço</p>
+                            <p>Formulário de Contato</p>
+                        </div>
+                        <div class="panel-footer">
+                            <h3>R$ 15</h3>
+                            <h4>por mês</h4>
+                            <button class="btn btn-lg">Assinar</button>
+                        </div>
+                    </div>      
+                </div>   
+                <div class="col-sm-4 col-xs-12">
+                    <div class="panel panel-default text-center">
+                        <div class="panel-heading">
+                            <h1>Vitrine Virtual</h1>
+                        </div>
+                        <div class="panel-body">
+                            <p>Dúvidas</p>
+                            <p>Contatos</p>
+                            <p>Sobre a empresa</p>
+                            <p>Categorias do produto</p>
+                            <p>Espaço para compra de produto</p>
+                        </div>
+                        <div class="panel-footer">
+                            <h3>R$ 30</h3>
+                            <h4>por mês</h4>
+                            <button class="btn btn-lg">Assinar</button>
+                        </div>
+                    </div>      
+                </div>       
+                <div class="col-sm-4 col-xs-12">
+                    <div class="panel panel-default text-center">
+                        <div class="panel-heading">
+                            <h1>Serviços Adicionais</h1>
+                        </div>
+                        <div class="panel-body">
+                            <p>Revenda em outros sites</p>
+                            <p>Post para Mídias</p>
+                            <p>Auxílio em Sites Gratuitos</p>
+                            <br>
+                        </div>
+                        <div class="panel-footer">
+                            <h3>Entre em contato</h3>
+                            <h4>para mais informações</h4>
+                            <button class="btn btn-lg">Assinar</button>
+                        </div>
+                    </div>      
+                </div>    
+            </div>
+        </div>
+
+        <!-- Contato -->
+        <div id="contato" class="container-fluid bg-grey">
+            <center>
+                <h2>CONTATO</h2>
+                <div class="row">
+                    <p>Entre em contato com a gente e nós responderemos em menos de 24 horas.</p>
+                    <br>
+                    </center>
+                    <div class="col-sm-3"></div>
+
+                    <div class="col-sm-1 slideanim"><br>
+                        <p><i class="fa fa-facebook" style="font-size:20px;color:purple"></i> @Alloy</p>
+                        <p><i class="fa fa-instagram" style="font-size:20px;color:purple"></i> @p.ialloy2020</p>
+                        <p><i class="fa fa-twitter" style="font-size:20px;color:purple"></i> @alloy2020</p>
+                    </div>
+
+                    <div class="col-sm-1">
+                        <center><img src="img/linha 3.png" height="175" width="3"></center>
+                    </div>
+                    
+                    <div class="col-sm-2 slideanim"><br><center><img src="img/Logo-empresa13-Pronto.png" width="275"></center></div>
+
+                    <div class="col-sm-1">
+                        <center><img src="img/linha 3.png" height="175" width="3"></center>
+                    </div>
+                    
+                    <div class="col-sm-2 slideanim"><br>
+                        <p><span class="glyphicon glyphicon-map-marker" style="color:purple"></span> Vila Sabrina, São Paulo - Brasil</p>
+                        <p><span class="glyphicon glyphicon-phone" style="color:purple"></span> +55 11 99865-8878</p>
+                        <p><span class="glyphicon glyphicon-envelope" style="color:purple"></span> p.ialloy2020@gmail.com</p>
+                    </div>
+
+                    <br>
+                </div>  
+
+                <!-- Rodapé -->
+                <footer class="container-fluid text-center">
+                    <a href="#topo" title="Topo"><span class="glyphicon glyphicon-chevron-up icone-pequeno"></span></a>
+                    <p>© 2020 | Alloy</p>
+                </footer>
+
+                <!-- Animações -->
+                <script>
+                    $(document).ready(function () {
+                        // Add smooth scrolling to all links in navbar + footer link
+                        $(".navbar a, footer a[href='#topo']").on('click', function (event) {
+                            // Make sure this.hash has a value before overriding default behavior
+                            if (this.hash !== "") {
+                                // Prevent default anchor click behavior
+                                event.preventDefault();
+
+                                // Store hash
+                                var hash = this.hash;
+
+                                // Using jQuery's animate() method to add smooth page scroll
+                                // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+                                $('html, body').animate({
+                                    scrollTop: $(hash).offset().top
+                                }, 900, function () {
+
+                                    // Add hash (#) to URL when done scrolling (default click behavior)
+                                    window.location.hash = hash;
+                                });
+                            } // End if
+                        });
+
+                        $(window).scroll(function () {
+                            $(".slideanim").each(function () {
+                                var pos = $(this).offset().top;
+
+                                var winTop = $(window).scrollTop();
+                                if (pos < winTop + 600) {
+                                    $(this).addClass("slide");
+                                }
+                            });
+                        });
+                    })
+                </script>
+
+                </body>
+                </html>
