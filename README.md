@@ -20,10 +20,10 @@ Esse projeto foi desenvolvido com as seguintes linguagens:
 ## Integrantes
 Coordenadores do projeto:
 
-- Emyle Nogueira
-- Gustavo Henrique
-- Luccas Alberto
-- Marco Aurelio
+- Emyle Nogueira (Coordenadora de Documentação)
+- Gustavo Henrique (Coordenador de Programação)
+- Luccas Alberto (Coordenador de Programação)
+- Marco Aurelio (Coordenador de Design)
 
 ## Inspiração
 <p>O site foi baseado em um template da W3Schools:</p>
