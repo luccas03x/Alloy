@@ -1,5 +1,5 @@
 <h1 align="center">Alloy</h1>
-<p align="center"><i>Site principal da minha empresa de 2020.</i></p>
+<p align="center"><i>Um Mundo de Possibilidades</i></p>
 
 imagem
 
