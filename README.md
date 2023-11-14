@@ -20,10 +20,10 @@ Esse projeto foi desenvolvido com as seguintes linguagens:
 ## Integrantes
 Coordenadores do projeto:
 
-- Emyle Nogueira - Documentação
-- Gustavo Henrique - Programação
-- Luccas Alberto - Programação
-- Marco Aurelio - Design
+- Emyle Nogueira - <i>Documentação</i>
+- Gustavo Henrique - <i>Programação</i>
+- Luccas Alberto - <i>Programação</i>
+- Marco Aurelio - <i>Design</i>
 
 ## Redes Sociais
 - Instagram:
