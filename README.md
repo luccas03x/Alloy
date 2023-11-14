@@ -23,4 +23,4 @@ Coordenadores do projeto:
 
 ## Inspiração
 O site foi baseado em um template da W3Schools.
-START PAGE - https://spaces.w3schools.com/createspace
+"START PAGE" - https://spaces.w3schools.com/createspace
