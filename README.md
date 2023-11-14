@@ -22,5 +22,5 @@ Coordenadores do projeto:
 - Marco Aurelio
 
 ## Inspiração
-O site foi baseado em um template da W3Schools.
-"START PAGE" - https://spaces.w3schools.com/createspace
+<p>O site foi baseado em um template da W3Schools.</p>
+<p>START PAGE - https://spaces.w3schools.com/createspace</p>
