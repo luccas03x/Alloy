@@ -1,9 +1,13 @@
 <h1 align="center">Alloy</h1>
 <p align="center"><i>Um Mundo de Possibilidades</i></p>
 
-imagem
+<p align="center">
+  <img src=".img/Banner Alloy.jpg" width="100%">
+</p>
 
 ## Sobre a nossa empresa
+<p>Alloy é um projeto que foi desenvolvido para auxiliar na era da tecnologia, sendo assim com seu avanço, muitas empresas ou pequenos empreendedores não alcançam essa adaptação tecnológica necessária, mediante a esse cenário, surge Alloy, buscando facilitar essa adaptação trazendo praticidade e segurança para seu website.</p>
+<p>Este projeto foi produzido por alunos do 2º e 3º ano do Ensino Médio do Técnico de Informática da escola Educandário Santa Rita de Cássia.</p>
 
 ## Objetivos
 - Projeto para concluir o Técnico de Informática como forma de TCC.
