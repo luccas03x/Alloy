@@ -5,7 +5,7 @@ imagem
 
 ## Sobre a nossa empresa
 
-## Objetivo
+## Objetivos
 - Projeto para concluir o Técnico de Informática como forma de TCC.
 - Esse projeto foi criado para ser o principal site da empresa Alloy.
 - Como nossa empresa é uma prestadora de serviços, contém mais 3 sites além desse.
