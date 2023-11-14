@@ -2,7 +2,7 @@
 <p align="center"><i>Um Mundo de Possibilidades</i></p>
 
 <p align="center">
-  <img src=".img/Banner Alloy.jpg" width="100%">
+  <img src="img/Banner Alloy.jpg" width="100%">
 </p>
 
 ## 📊 Sobre a nossa empresa
