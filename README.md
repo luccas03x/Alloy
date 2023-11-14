@@ -30,9 +30,8 @@ Coordenadores do projeto:
 - Marco Aurelio - <i>Design</i>
 
 ## Redes Sociais
-- Instagram:
-- Facebook:
-- Linkedin:
+- Instagram: https://www.instagram.com/p.ialloy2020/
+- Facebook: https://www.facebook.com/P.IAlloy?locale=pt_BR
 
 ## Inspiração
 <p>O site foi baseado em um template da W3Schools:</p>
